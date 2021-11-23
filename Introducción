@@ -1,0 +1,33 @@
+# Conceptos clave
+## Instrumento financiero
+Un instrumento financiero se define como un contrato entre individuos/grupos que contiene un valor monetario. Estos pueden ser creados, intercambiados, entregados o modificados
+conforme lo soliciten los miembros involucrados. En palabras sencillas, cualquier bien que tenga un valor asociado y que pueda ser intercambiado/canjeado (por dinero), en el mercado
+representa un intrumento financiero.1
+
+## Instrumento 
+## Agenda
+Una agenda contiene una lista electrónica de órdenes de compra y venta para un instrumento financiero organizado por precio. En las agendas se muestra
+el número de acciones ordenadas u ofrecidas en cada banda de precio.
+En una agenda se mostrarán tres columnas cada una representará el número de acciones ordenadas, el precio de las acciones y las acciones ofertadas (en venta), respectivamente.
+| Órdenes     | Precios por acción | Acciones en venta   |
+| ----------- | ------------------ |-------------------- |
+|             |      350           |        105          |
+|             |      349           |        100          |
+|             |      348           |        123          |
+|             |      347           |        150          |
+|             |      346           |                     |
+|             |      345           |                     |
+|             |      344           |                     |
+|             |      343           |                     |
+|      300    |      342           |                     |
+|      123    |      341           |                     |
+|      145    |      340           |                     |
+
+Un instrumento financiero activo tiene una agenda congestionada (agenda líquida).
+
+## Canjeo
+Una agenda da información sobre la actividad que un bien puede tener en el mercado sin embargo, para que una venta se lleve a cabo se necesita de una orden y de una aferta al mismo precio
+
+
+References
+1."Financial Instrument" from [https://cleartax.in/g/terms/financial-instrument] on 22/10/2021.
